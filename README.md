@@ -1,2 +1,2 @@
-# system-w-j-zyku-batch
+# system-w-języku-batch
 notatnik w  mini systemie w języku batch z logowaniem
